@@ -13,9 +13,10 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'Free Time',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        useMaterial3: true,
+        colorSchemeSeed: Colors.deepPurple,
       ),
-      home: const Home(),
+      home: Home(),
     );
   }
 }

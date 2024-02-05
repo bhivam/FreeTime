@@ -1,2 +1,2 @@
-# free_time
-
+# When are you free?
+I found it very annoying to manually find free time on my calendar when scheduling meetings. To solve this problem I'm creating FreeTime. FreeTime is a web app that can take in a google calender or calender file along with a range of dates and give you back a list of times you are free in that range of dates in text format. Simply paste this into your email and send whenever you are trying to give someone your availabilities. No more time wasted on finding availabilities!
